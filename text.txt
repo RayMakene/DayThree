@@ -1,0 +1,38 @@
+1.	How do you begin managing your database after installing MySQL?What is the first step for installing Dart on a Windows machine?
+( B )
+2.	Which command verifies the Dart installation on macOS?
+( D )
+3.	What is the next step after downloading and extracting the Flutter SDK on Linux?
+( B )
+4.	What command is used to run a newly created Flutter app?
+( C )
+
+5.	What is the first step to install Python on a Windows system?
+( B )
+
+6.	Which option should you ensure is checked during Python installation on Windows?
+( C )
+
+7.	How do you verify Python installation on any system?
+( A )
+
+8.	What command is used to install pip on macOS and Linux?
+( A )
+
+9.	What is the purpose of a virtual environment in Python?
+( C )
+
+10.	What is the first step to install MySQL on Windows?
+( B )
+
+11.	What setup type should you choose for a custom MySQL installation?
+( A )
+
+12.	Which products should you select during the MySQL installation?
+( A )
+
+13.	What is the purpose of setting a root password during MySQL installation
+( B )
+
+14.	How do you begin managing your database after installing MySQL?
+( B )
